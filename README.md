@@ -2,8 +2,6 @@ Credit: To-do-list is created by cattillallnight
 
 # 📝 To-Do List Web App
 
-![To-Do List Demo](https://via.placeholder.com/600x200.png?text=To-Do+List+Demo)
-
 > A modern, responsive **To-Do List / Productivity Web App** built with **HTML, CSS, and JavaScript**. Track tasks, organize your day, and boost productivity!
 
 ---
