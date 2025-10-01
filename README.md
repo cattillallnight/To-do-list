@@ -38,12 +38,6 @@ CSS3 / TailwindCSS – Styling, responsive layout, and themes
 
 JavaScript (ES6+) – App logic, DOM manipulation, localStorage handling
 
-⚡ Demo
-
-You can view the live demo here:
-Live Demo Link
- (replace with your deployed URL)
-
 💻 Installation
 
 Clone the repository:
