@@ -31,13 +31,6 @@ Credit: To-do-list is created by cattillallnight
 
 ---
 
-## ⚡ Demo
-
-You can view the live demo here:  
-[Live Demo Link](#) *(replace with your deployed URL)*
-
----
-
 ## 💻 Installation
 
 1. Clone the repository:
