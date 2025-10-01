@@ -32,6 +32,7 @@ Credit: To-do-list is created by cattillallnight
 ---
 
 ## 💻 Installation
+<img width="939" height="1013" alt="image" src="https://github.com/user-attachments/assets/ee12ec28-8184-4b55-95d2-f2e833692c5e" />
 
 1. Clone the repository:
 
