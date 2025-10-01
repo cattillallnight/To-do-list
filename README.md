@@ -85,6 +85,3 @@ Please submit a pull request with a clear description of your changes.
 
 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
-
-css
-Copy code
