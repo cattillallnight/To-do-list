@@ -1,55 +1,58 @@
 Credit: To-do-list is created by cattillallnight
 
-📝 To-Do List Web App
+# 📝 To-Do List Web App
 
-A modern, responsive To-Do List / Productivity Web App built with HTML, CSS, and JavaScript. Track tasks, organize your day, and boost productivity!
+![To-Do List Demo](https://via.placeholder.com/600x200.png?text=To-Do+List+Demo)
 
-🌟 Features
+> A modern, responsive **To-Do List / Productivity Web App** built with **HTML, CSS, and JavaScript**. Track tasks, organize your day, and boost productivity!
 
-Add / Edit / Delete Tasks: Easily create, update, and remove tasks.
+---
 
-Mark Complete / Incomplete: Track your progress by checking tasks as done.
+## 🌟 Features
 
-Filter Tasks: View All, Completed, or Incomplete tasks.
+- **Add / Edit / Delete Tasks**: Easily create, update, and remove tasks.  
+- **Mark Complete / Incomplete**: Track your progress by checking tasks as done.  
+- **Filter Tasks**: View **All**, **Completed**, or **Incomplete** tasks.  
+- **Search Tasks**: Quickly find tasks by keyword.  
+- **Persistent Storage**: Tasks are saved in **localStorage**, so your data persists after page reload.  
+- **Responsive Design**: Works seamlessly on desktop, tablet, and mobile.  
+- **Dark / Light Mode**: Toggle between themes for comfortable viewing.  
+- **Optional Bonus Features**:
+  - Drag & drop to reorder tasks  
+  - Task priority labels (low, medium, high)  
+  - Export / import tasks as JSON  
+  - Reminder notifications for tasks  
 
-Search Tasks: Quickly find tasks by keyword.
+---
 
-Persistent Storage: Tasks are saved in localStorage, so your data persists after page reload.
+## 🛠️ Technologies Used
 
-Responsive Design: Works seamlessly on desktop, tablet, and mobile.
+- **HTML5** – Structure and content of the app  
+- **CSS3 / TailwindCSS** – Styling, responsive layout, and themes  
+- **JavaScript (ES6+)** – App logic, DOM manipulation, localStorage handling  
 
-Dark / Light Mode: Toggle between themes for comfortable viewing.
+---
 
-Optional Bonus Features:
+## ⚡ Demo
 
-Drag & drop to reorder tasks
+You can view the live demo here:  
+[Live Demo Link](#) *(replace with your deployed URL)*
 
-Task priority labels (low, medium, high)
+---
 
-Export / import tasks as JSON
+## 💻 Installation
 
-Reminder notifications for tasks
+1. Clone the repository:
 
-🛠️ Technologies Used
-
-HTML5 – Structure and content of the app
-
-CSS3 / TailwindCSS – Styling, responsive layout, and themes
-
-JavaScript (ES6+) – App logic, DOM manipulation, localStorage handling
-
-💻 Installation
-
-Clone the repository:
-
+```bash
 git clone https://github.com/cattillallnight/todo-list-web.git
-
-
 Open index.html in your browser.
 
 (Optional) Deploy to GitHub Pages or any static hosting service.
 
 📂 Project Structure
+graphql
+Copy code
 todo-list-web/
 │
 ├─ index.html        # Main HTML file
@@ -58,9 +61,7 @@ todo-list-web/
 └─ assets/
     ├─ images/       # Icons, illustrations
     └─ ...
-
 🚀 Usage
-
 Add a new task in the input field and press Enter or click Add.
 
 Mark tasks as complete by clicking the checkbox.
@@ -74,7 +75,6 @@ Filter tasks using the All / Completed / Incomplete buttons.
 Toggle Dark / Light Mode using the button on top.
 
 📝 Contributing
-
 Contributions are welcome! You can:
 
 Add new features (priority, notifications, drag/drop)
@@ -86,8 +86,7 @@ Fix bugs and optimize code
 Please submit a pull request with a clear description of your changes.
 
 📜 License
+This project is licensed under the MIT License. See the LICENSE file for details.
 
-This project is licensed under the MIT License. See the LICENSE
- file for details.
-
-✅ Ready to use – copy this content into your README.md and publish to GitHub.
+css
+Copy code
